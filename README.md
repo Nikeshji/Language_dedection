@@ -1,4 +1,4 @@
-#Language Dedector 
+# Language Dedector 
 
 Dependencies:
 This project requires the following Python libraries:
